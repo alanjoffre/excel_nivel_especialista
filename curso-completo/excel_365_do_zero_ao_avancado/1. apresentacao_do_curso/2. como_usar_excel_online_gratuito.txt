@@ -1,0 +1,35 @@
+1. Usar o excel online
+
+2. precisa ter internet
+
+3. Basta ter uma conta outlook.com ou hotmail.com
+
+4. Acesse o site office.com
+
+5. Desça a pagina ate´o final para colocar o idoma da pagina em portugues.
+
+6. Selecione portugues Brasil
+
+7. Caso não tenha um conta se inscreva.
+
+8. Clique em entrar, caso tnha uma conta.
+
+9. Clique ao lado e selecione o app Excel.
+
+10. Clique em + para abrir uma nova planilha
+
+11. Após abrir a planilha, olhe para o cando superior direito e procure por duas setas (acima da barra de rolagem)
+
+12. Abrira uma janela: Layout de Faixa de opções.
+
+13. Selecione: Faixa de opções Classica.
+
+14. Online você pode salvar no OneDrive, que possui 5 GB de espaço ou no localmente em seu pc.
+
+15. Clique nos 9 pontinhos do lçado esquerdo parte superior.
+
+16. Selecione o app Microsoft 365 Copilot
+
+17. Clique em carregar
+
+18. Selecione o arquivo a ser importado para o seu OneDrive
