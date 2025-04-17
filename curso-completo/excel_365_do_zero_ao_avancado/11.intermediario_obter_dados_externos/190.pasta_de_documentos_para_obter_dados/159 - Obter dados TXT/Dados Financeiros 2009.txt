@@ -1,0 +1,12 @@
+"Identificação" "Data" "Tipo Aplicação" "Rentabilidade"
+1 30/7/2009 "Ibovespa" 0,96
+2 30/7/2009 "CDI" 0,06
+3 30/7/2009 "FIF Renda Fixa" 0,06
+4 30/7/2009 "FIF DI" 0,06
+5 30/7/2009 "CDB 30 Dias" 0,05
+6 30/7/2009 "Poupança" 0,04
+7 30/7/2009 "Ouro BM&F" -0,12
+8 30/7/2009 "Dólar paralelo" -0,14
+9 30/7/2009 "Euro" -0,18
+10 30/7/2009 "FIF Cambial Dólar" -0,18
+11 30/7/2009 "Dólar" -0,19

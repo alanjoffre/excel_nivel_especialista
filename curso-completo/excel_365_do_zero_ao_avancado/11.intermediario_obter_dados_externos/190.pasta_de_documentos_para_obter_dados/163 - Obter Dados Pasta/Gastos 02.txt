@@ -1,0 +1,5 @@
+Identificação; Data; Local; Item; Valor
+20; 06/04/2022; Moradia; Aluguel; R$ 1.500,00
+21; 06/04/2022; Moradia; Água; R$ 89,00
+22; 06/04/2022; Moradia; Luz; R$ 250,00
+23; 09/04/2022; Moradia; Mercado; R$ 320,00
